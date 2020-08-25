@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="dancing_female">
+    <actor name="dancing_female">
+      <skin>
+      <filename>/home/prabhjot/.gazebo/models/DancingFemale_5_13/meshes/Human_5_13_blenderexport.dae</filename>
+      </skin>
+    </actor>
+  </model>
+</sdf>
